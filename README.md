@@ -1,3 +1,3 @@
 # git_test
 
-Hello Odin! Now on Linux! que paso
+Hello Odin! Now on Linux!
